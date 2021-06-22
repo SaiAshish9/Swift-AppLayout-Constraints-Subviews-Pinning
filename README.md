@@ -36,4 +36,17 @@ print("ans:\(9+0)")
 
 ```
 Int.random(in: 0...5)
+```
 
+# Random Floating Decimal
+
+```
+Float.random(in: 0...5) 
+0.789
+```
+
+# let vs var
+
+```
+let is constant in swift
+```
