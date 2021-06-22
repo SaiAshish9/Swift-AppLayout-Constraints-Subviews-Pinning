@@ -35,5 +35,5 @@ print("ans:\(9+0)")
 # Randon Integer
 
 ```
-Int.random(in: 0..5)
+Int.random(in: 0...5)
 
