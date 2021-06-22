@@ -21,5 +21,5 @@ snake_case
 # Creating a new file
 
 ```
-File -> New -> Playground -> swift
+File -> New -> Playground -> ios -> blank 
 ```
