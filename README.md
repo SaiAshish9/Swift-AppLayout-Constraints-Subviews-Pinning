@@ -31,3 +31,9 @@ play -> automatically save
 print("ans:\(9+0)")
 ```
 ![Screenshot from 2021-06-23 00-59-35](https://user-images.githubusercontent.com/43849911/122987583-62d05700-d3be-11eb-87ef-d11d3d9c9297.png)
+
+# Randon Integer
+
+```
+Int.random(in: 0..5)
+
