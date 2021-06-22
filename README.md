@@ -22,4 +22,11 @@ snake_case
 
 ```
 File -> New -> Playground -> ios -> blank 
+play -> automatically save
+```
+
+# String  Interpolation 
+
+```
+print("ans:\(9+0)")
 ```
