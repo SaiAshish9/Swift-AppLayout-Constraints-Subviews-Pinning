@@ -50,3 +50,9 @@ Float.random(in: 0...5)
 ```
 let is constant in swift
 ```
+
+# AutoLayout
+
+```
+our app should look good on the canvas dimensions we've selected.
+```
