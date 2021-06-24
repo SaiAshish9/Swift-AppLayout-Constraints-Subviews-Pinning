@@ -56,3 +56,10 @@ let is constant in swift
 ```
 our app should look good on the canvas dimensions we've selected.
 ```
+
+# SubViews & Constraints
+
+```
+<img width="1440" alt="Screenshot 2021-06-24 at 11 51 01 AM" src="https://user-images.githubusercontent.com/43849911/123212736-c9e72c00-d4e2-11eb-8d77-a0e2dd238507.png">
+<img width="1440" alt="Screenshot 2021-06-24 at 11 49 56 AM" src="https://user-images.githubusercontent.com/43849911/123212742-cbb0ef80-d4e2-11eb-82dc-15f779435662.png">
+```
